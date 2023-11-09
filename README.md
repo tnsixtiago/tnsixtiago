@@ -1,4 +1,4 @@
 -  Olá, me chamo Tiago
--  Tenho interesse em dados, então esse github vai ser direcionado ao meu aprendizado.
--  Atualmente estou estudando análise de dados e a linguagem escolhida foi R.
+-  Tenho interesse em todas tecnologias, então esse github vai ser direcionado ao meu aprendizado.
+-  Atualmente estou estudando OOP de Java.
 -  Espero ajudar ou tirar dúvidas de alguém.
